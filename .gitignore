@@ -26,3 +26,4 @@ replay_pid*
 *.jar   
 .vscode/
 .idea/    
+contacts.json
