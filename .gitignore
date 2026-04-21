@@ -27,3 +27,6 @@ replay_pid*
 .vscode/
 .idea/    
 contacts.json
+out/
+*.class
+.DS_Store
