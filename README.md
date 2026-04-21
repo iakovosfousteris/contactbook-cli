@@ -15,5 +15,5 @@ Java 17, Gson, Git, JSON
 ### **How to Run**
 1. Download `gson-2.10.1.jar` into `lib/` from https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/
 2. Compile: `javac -cp "lib/*" -d out src/*.java`
-3. Run: `java -cp "out;lib/*" Main`
+3. Run: `java -cp "out;lib/*" src.Main`
 4. `contacts.json` will be created automatically on first run
